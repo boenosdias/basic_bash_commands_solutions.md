@@ -22,7 +22,7 @@ echo "Balikci" > balikci.txt
 
 
 **Exercise 5**
-cat arda.txt balikci.txt
+cat mert.txt balikci.txt
 ```
 
 
