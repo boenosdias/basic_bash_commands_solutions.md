@@ -6,6 +6,7 @@ ls -la
 
 **Exercise 2**
 ls -lhS /var/log | sort -h
+
 ```
 
 
