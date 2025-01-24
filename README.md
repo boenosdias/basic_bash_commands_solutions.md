@@ -1,1 +1,1 @@
-# basic_bash_commands_solutions.md
+Mert Balikci
