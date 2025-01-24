@@ -40,5 +40,5 @@ cat balikci.txt >> mert.txt
 
 **Exercise 7**
 ```
-ls -d ~/*/ > folders_list.txt
+ls -d */ > folders_list.txt
 ```
